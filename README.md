@@ -6,7 +6,7 @@ https://vabrigadina.github.io/BoWT/hometask_1.html
 https://vabrigadina.github.io/BoWT/hometask_2.html
 
 Решение алгоритмической задачи
-
+https://vabrigadina.github.io/BoWT/algorithmic_problem.html
 
 Контрольная работа 1
 https://vabrigadina.github.io/BoWT/final_project_1/index.html
