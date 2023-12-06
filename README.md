@@ -8,6 +8,7 @@ https://vabrigadina.github.io/BoWT/hometask_1.html
 https://vabrigadina.github.io/BoWT/final_project_1/index.html
 
 Контрольная работа 2
+https://vabrigadina.github.io/BoWT/final_project_2/index.html
 
 
 
