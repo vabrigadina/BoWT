@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Торт Сникерс",
+    "vendor_code": "111",
+    "description": "Состав: шоколадный бисквит, карамель с арахисом, крем, ганаш",
+    "price": 3000,
+    "img": "https://mk-manakhova.ru/wp-content/uploads/2022/02/IMG_8483-scaled.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Торт Прага",
+    "vendor_code": "222",
+    "description": "Состав: шоколадный бисквит, шоколадный крем, абрикосовый джем",
+    "price": 2500,
+    "img": "https://i.imgur.com/Fonahn0.jpeg"
+  },
+  {
+    "id": "3",
+    "title": "Торт Ягодно-фисташковый",
+    "vendor_code": "333",
+    "description": "Состав: ванильный бисквит, компоте клубничное, мусс малиновый, крем с фисташками",
+    "price": 4000,
+    "img": "https://lakomka.me/wp-content/uploads/2020/10/fistashka-malina.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Торт Банан-арахис",
+    "vendor_code": "444e",
+    "description": "Состав: арахисовый бисквит, бананы карамелизированные, карамель шоколадная, пропитка карамель с арахисом, мусс арахисовый, крем шоколадно-творожный",
+    "price": 4800,
+    "img": "https://mk-manakhova.ru/wp-content/uploads/2022/06/IMG_1209-scaled.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Нарезное пирожное Буррато",
+    "vendor_code": "4445e",
+    "description": "Состав: бисквит с томатами, томатный мусс с нотой ванили, крем Буррато с лаймом, глазурь Гурмэ",
+    "price": 300,
+    "img": "https://shopkurs.com/wp-content/uploads/2021/05/pirozhnoe-burrato-mariya-manahova_609a1e5fafda3.jpeg"
+  },
+  {
+    "id": "6",
+    "title": "Нарезное пирожное Лёгкая смородина",
+    "vendor_code": "4446e",
+    "description": "Состав: ягодный спонж (смородина), крем ягодный текстурный, мусс йогуртовый",
+    "price": 400,
+    "img": "https://shopkurs.com/wp-content/uploads/2022/02/legkaya-smorodina-mariya-manahova_620f5247de419.jpeg"
+  },
+  {
+    "id": "7",
+    "title": "Нарезное пирожное Огонь",
+    "vendor_code": "4447e",
+    "description": "Состав: сигаретный бисквит, крем сублимированный, кули малиновое, ягоды малины",
+    "price": 350,
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRu6UW-jcX0cQFfriU-oqX3sHPwfEmn0AdUcFrKVkgm3bwVCckJ"
+  },
+  {
+    "id": "8",
+    "title": "Рулет Рафаэлло",
+    "vendor_code": "4448e",
+    "description": "Состав: тесто пористое рулетное кокосовое, крем кокосовый, стружка кокосовая, клубника",
+    "price": 1500,
+    "img": "https://mk-manakhova.ru/wp-content/uploads/2021/09/IMG_6528-scaled.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Нарезное пирожное капучино",
+    "vendor_code": "444e",
+    "description": "Состав: бисквит классический, крем кофе-печенье, намелака творожная, мусс кофейный",
+    "price": 400,
+    "img": "https://shopkurs.com/wp-content/uploads/2023/04/pirozhnoe-kapuchino-mariya-manahova_642b868ff33d8.png"
+  },
+  {
+    "id": "10",
+    "title": "Нарезное пирожное Тоффи",
+    "vendor_code": "44410e",
+    "description": "Состав: бисквит ореховый, крем Тоффи, мусс шоколадный, джем грушевый",
+    "price": 450,
+    "img": "https://i.imgur.com/dtHRx2B.png"
+  }
+]
